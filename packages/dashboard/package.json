@@ -60,7 +60,7 @@
     {
       "name": "auth",
       "type": "internal",
-      "url": "https://github.com/callstack/super-app-showcase"
+      "url": "https://github.com/kieu1004/super-app-release"
     }
   ],
   "jest": {

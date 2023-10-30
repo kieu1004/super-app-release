@@ -45,7 +45,7 @@ When you're sending a pull request:
 
 ## Reporting issues
 
-You can report issues on our [bug tracker](https://github.com/callstack/super-app-showcase/issues). Please follow the issue template when opening an issue.
+You can report issues on our [bug tracker](https://github.com/kieu1004/super-app-release/issues). Please follow the issue template when opening an issue.
 
 ## License
 
