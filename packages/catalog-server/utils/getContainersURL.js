@@ -1,6 +1,5 @@
 const getContainersURL = ({
-  // hostname = 'https://super-app-release-h58rm0q49-kieu1004s-projects.vercel.app',
-  hostname = 'https://super-app-release-h58rm0q49-kieu1004s-projects.vercel.app',
+  hostname = 'https://super-app-release-deploy.vercel.app',
   appName,
   version,
   platform,

@@ -5,7 +5,7 @@
       "shopping": "http://192.168.10.239:9001/[name][ext]",
       "news": "https://github.com/callstack/news-mini-app-showcase/releases/download/news-ios@0.0.1/[name][ext]",
       "dashboard": "http://192.168.10.239:9002/[name][ext]",
-      "auth": "http://192.168.10.239:9003/[name][ext]",
+      "auth": "https://super-app-release-deploy.vercel.app/[name][ext]",
       "playbooks": "http://192.168.10.239:9005/[name][ext]"
     }
   },
@@ -15,7 +15,7 @@
       "shopping": "http://192.168.10.239:9001/[name][ext]",
       "news": "https://github.com/callstack/news-mini-app-showcase/releases/download/news-android@0.0.1/[name][ext]",
       "dashboard": "http://192.168.10.239:9002/[name][ext]",
-      "auth": "http://192.168.10.239:9003/[name][ext]",
+      "auth": "https://super-app-release-deploy.vercel.app/[name][ext]",
       "playbooks": "http://192.168.10.239:9005/[name][ext]"
     }
   }
